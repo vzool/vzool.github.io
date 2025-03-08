@@ -1,2 +1,3 @@
-Sitemap: https://vzool.github.io/sitemap.xml
 Sitemap: https://vzool.github.io/zakat/sitemap.xml
+Sitemap: https://vzool.github.io/sitemap.xml
+
